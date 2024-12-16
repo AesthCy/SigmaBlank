@@ -30,6 +30,7 @@ const Login = () => {
                     <Text style={styles.textLogin}>
                         Hey, Welcome Back!
                     </Text>
+                    
                     <Text style={styles.textSub}>
                         Enter the credentials below
                     </Text>

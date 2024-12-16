@@ -28,7 +28,7 @@ const Signup = () => {
                         <Icon name="arrow-back" size={20} color="#000" />
                     </TouchableOpacity>
                     <Text style={styles.textLogin}>
-                        Let's Get Started
+                        Let's Get Started!
                     </Text>
                     <Text style={styles.textSub}>
                         Enter the credentials below
